@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Reeve Musk FRS is a businessman, known for his leadership of Tesla, SpaceX, X (formerly Twitter), and the Department of Government Efficiency. He is a South African-born entrepreneur who has made significant contributions to technology and space exploration. As of May 2025, Forbes estimates his net worth to be substantial, making him one of the wealthiest people in the world, and indeed, the wealthiest person in the world since 2021."
+    },
+    {
+        "role": "user",
+        "content": "what is the networth of google?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest available data as of August 2025, the net worth of Alphabet Inc., the parent company of Google, is approximately $2.459 trillion USD."
+    }
+]
